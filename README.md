@@ -44,18 +44,18 @@ I am currently working as a research assistant at Dr. Luque's lab
 ---
 
 ## 🏆 **Achievements**
-- 🏅 **Developed novel T=3 AAV capsids for gene therapy - work on progress**
+- 🏅 **Developed novel T=3 AAV capsids for gene therapy - work in progress**
 - 🔬 **Published research on heavy metal toxicity in zebrafish**
-- 🧬 **AI-driven design of viral capsid proteins - work on progress**
-- 💻 **Simulated viral assembly using molecular dynamics - work on progress**
+- 🧬 **AI-driven design of viral capsid proteins - work in progress**
+- 💻 **Simulated viral assembly using molecular dynamics - work in progress**
 
 ---
 
 ## 📫 **Connect with Me**
-💼 **LinkedIn**: [Imran Noor](https://www.linkedin.com/in/imrannoor92)  
-📧 **Email**: imran.noor@example.com  
-🧪 **Google Scholar**: [My Research](https://scholar.google.com/citations?user=XXXXXXX)  
-🐦 **Twitter**: [@ImranNoor92](https://twitter.com/ImranNoor92)  
+💼 **LinkedIn**: [Imran Noor](https://www.linkedin.com/in/md-imran-noor-69abb9106/)  
+📧 **Email**: imrannoor92@gmail.com  
+🧪 **Google Scholar**: [My Research](https://scholar.google.com/citations?user=7dJO5awAAAAJ&hl=en)  
+
 
 ---
 
